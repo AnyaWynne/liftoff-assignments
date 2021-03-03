@@ -1,18 +1,4 @@
 # Project Outline
-For this assignment, you will submit a high-level outline of your project. This can, and likely will, change over time. In particular, your mentor will provide direction and feedback to help sharpen your ideas. So don't worry if you feel unsure about some aspects of the outline or if you have to change some things later.
+Project outline and trello links in the google file:
+https://docs.google.com/document/d/19f67_N1D-NPtrNBj1iuEmYM6TGd9guxHLJhM_UNSmRM/edit
 
-## Assignment Description
-[Project Outline Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-outline)
-
-## Submission Instructions
-
-### Overview
-Include overview here
-### Features
-Include Features here
-### Technologies
-Include Technologies here
-### What I'll Have to Learn
-Include what you will need to learn here
-### Project Tracker
-Link to your Trello board here
